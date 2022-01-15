@@ -368,7 +368,7 @@ nav{
 
 /*...............media query phone.............*/
 
-@media (max-width: 776px) {
+@media (max-width: 900px){
     .navigation{
         display: none;
     }
@@ -388,6 +388,9 @@ nav{
     width: 90%;
     height: 100%;
     margin: 50px auto;
+}
+.banner-right img{
+    width: 80%;
 }
 .banner-name{
     color: #3A3A3A;
@@ -459,7 +462,7 @@ nav{
 
 /*...............media query tab.............*/
 
-@media (min-width: 776px) and (max-width:1016px) {
+@media (min-width: 900px) and (max-width:1428px) {
     
 .banner{
     width: 90%;
@@ -476,6 +479,9 @@ nav{
     width: 90%;
     height: 100%;
     margin: 50px auto;
+}
+.banner-right img{
+    width: 80%;
 }
 .banner-name{
     color: #3A3A3A;
