@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Poppins&display=swap');
 
 *{
     margin: 0;
     padding: 0;
 }
 body{
-    font-family: 'Poppins', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Poppins', sans-serif;
 }
 main{
     display: flex;
@@ -288,6 +289,7 @@ nav{
     color:#A2A2A2;
 }
 .product-detail{
+    color: #787885;
     width: 200px;
     margin-top: 5px;
 }
